@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Espaco Okamon</string>
+    <string name="texto_cadastro">Crie uma conta clicando <b>aqui</b></string>
+    <string name="senha">Senha</string>
+    <string name="email">Email</string>
+    <string name="botao_entrar">Entrar</string>
+    <string name="deslogar">Deslogar</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="digite_seu_email">Digite seu e-mail</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+</resources>
